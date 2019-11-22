@@ -6,3 +6,6 @@ p {
     color: grey;
 }
 
+.viz {
+    visibility: hidden;
+}
